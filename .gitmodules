@@ -1,0 +1,3 @@
+[submodule "mlops-iris"]
+	path = mlops-iris
+	url = https://github.com/Naveen191/mlops-iris
